@@ -53,6 +53,6 @@
 Демо:
 
 Сайт доступен по ссылке:
-[https://ТВОЙ_ЛОГИН.github.io/nnov-site/](https://ТВОЙ_ЛОГИН.github.io/nnov-site/)
+[https://1xxma.github.io/nnov-site/)
 
 (Проект сделан Бульдиной Марией группы ИС 24-2, препод М.Д.Карнеев)
